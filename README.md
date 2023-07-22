@@ -1,4 +1,4 @@
-### WELCOME TO WORDPRESS SHOP 👋👋👋
+# WELCOME TO WORDPRESS SHOP 👋👋👋
 <br>
 <h3>Introduction</h3> 
 <hr>
@@ -6,7 +6,7 @@ Here is introduction page for real project that I built for my customer. By usin
 
 Talking about performance, My wordpress shop can perform ecommerce web's basic actions like view, search by name or type, order. Besides, it also can redirect product on page to product on Shopee when user click 'Mua hàng tại Shopee' button.
 
-<h3>CMS system</h3>
+## CMS system
 <br>
 <p align="left">
   <img src="images/login_cms.png" />
@@ -17,7 +17,7 @@ Talking about performance, My wordpress shop can perform ecommerce web's basic a
 <i>Sample results</i>
 <br>
 
-<h3>User Interface</h3>
+## User Interface
 <br>
 <p align="left">
   <img src="images/home_page_1.png" />
@@ -26,12 +26,12 @@ Talking about performance, My wordpress shop can perform ecommerce web's basic a
 <i>Sample results</i>
 <br>
 
-<h3>Motivation</h3>
+## Motivation
 I was introduced by b brother in profession to a client who was in need of website design. And fortunately, before that, I researched and designed a personal website for myself at local. So, I just learn more, understand what's thing customer need, consult and deploy it.
 
 Finally, when I hand over the product for my customer, they very satisfied about website, I funny that thing. Therefore, I know this project still very basic. I need learn very much to improve my professional skills.
 
-<h3>How to use my code</h3>
+## How to use my code
 With my project, you must access to project folder. In this folder, it contains file 'backup.wpress' and file 'database.sql'.
 
 Firstly, please install 'XAMPP' app. This is  one of the widely used cross-platform web server, which helps you create and test your program on a local webserver. You need import file 'database.sql' to XAMPP system.
